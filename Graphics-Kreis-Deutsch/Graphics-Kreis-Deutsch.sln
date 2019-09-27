@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics-Kreis-Deutsch", "Graphics-Kreis-Deutsch\Graphics-Kreis-Deutsch.csproj", "{D4C25A7B-9D12-4B51-9B9E-818F1519F4C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C25A7B-9D12-4B51-9B9E-818F1519F4C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C25A7B-9D12-4B51-9B9E-818F1519F4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C25A7B-9D12-4B51-9B9E-818F1519F4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C25A7B-9D12-4B51-9B9E-818F1519F4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A6866B9-F9BE-418D-B37C-3FE0C97DBB19}
+	EndGlobalSection
+EndGlobal
